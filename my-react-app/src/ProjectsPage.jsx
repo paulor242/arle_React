@@ -1,11 +1,11 @@
-import React from "react";
+// import React from "react";
 
-function ProjectsPage(){
-    return( 
-        <div>
-            progectsPage
-        </div>
-    )
-}
+// function ProjectsPage(){
+//     return( 
+//         <div>
+//             progectsPage
+//         </div>
+//     )
+// }
 
-export default ProjectsPage;
+// export default ProjectsPage;

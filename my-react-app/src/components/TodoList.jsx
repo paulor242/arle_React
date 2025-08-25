@@ -76,10 +76,12 @@ export default TodoList;
 
 
 
-export const formatearEstadoTarea = (completada) => {
-    return completada ? "Completada" : "Pendiente";
-};
-    export const contarTareasCompletadas = (tareas) => {
-    return tareas.filter((tarea) => tarea.completada).length;
-};
+// export const formatearEstadoTarea = (completada) => {
+//     return completada ? "Completada" : "Pendiente";
+// };
+//     export const contarTareasCompletadas = (tareas) => {
+//     return tareas.filter((tarea) => tarea.completada).length;
+// };
+
+
 
