@@ -205,7 +205,7 @@ function App(){
   )
 }
 
-export default App;*/
+export default App;
 
 
 import './App.css'
@@ -218,4 +218,22 @@ import ProjectsPage2 from './ProgetcsPage2';
       <ProjectsPage2/>
   </div>;
 
-export default App 
+export default App */
+
+import todoList from './components/TodoList';
+function app(){
+  const nombre ="juan";
+
+  return (
+  <div>
+    <h1>mi aplicacion react 20025 {nombre}</h1>
+
+    <p>este es un ejemplo con react</p>
+
+    <todoList/>
+
+  </div>
+  )
+}
+
+export  default app;  

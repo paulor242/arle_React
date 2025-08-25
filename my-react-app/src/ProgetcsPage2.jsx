@@ -6,13 +6,13 @@
     // return element;
     // }
 
-import React from "react";
-const ProgetcsPage2 =() => {
-    let i = 1;
-    const element = <h1>{ (i = 1) ? 'hola!!':'Acceso denegado' } </h1>
-    return element;
-}
+// import React from "react";
+// const ProgetcsPage2 =() => {
+//     let i = 1;
+//     const element = <h1>{ (i = 1) ? 'hola!!':'Acceso denegado' } </h1>
+//     return element;
+// }
 
 
-export default ProgetcsPage2;
+// export default ProgetcsPage2;
 
